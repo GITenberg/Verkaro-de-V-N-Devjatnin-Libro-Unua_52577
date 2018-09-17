@@ -1,5 +1,8 @@
 _repo: Verkaro-de-V-N-Devjatnin-Libro-Unua_52577
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52577-h/images/cover.jpg
 creator:
   author:
     agent_name: Devjatnin, V. N. (Vasilij Nikolaevic)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46938
     wikipedia: https://eo.wikipedia.org/wiki/Vasilij_Devjatnin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52577#Verkaro-de-V-N-Devjatnin-Libro-Unua
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2016-07-14'
 gutenberg_type: Text
